@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum factoriel", "Sum factoriel.csproj", "{B1A2326A-CBB5-0203-8EBB-511E2AE0A815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A2326A-CBB5-0203-8EBB-511E2AE0A815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A2326A-CBB5-0203-8EBB-511E2AE0A815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A2326A-CBB5-0203-8EBB-511E2AE0A815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A2326A-CBB5-0203-8EBB-511E2AE0A815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEEA289-893C-4874-B57F-F5DE2C424623}
+	EndGlobalSection
+EndGlobal
