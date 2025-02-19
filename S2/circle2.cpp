@@ -13,40 +13,40 @@ public:
         radius = r;
     }
 
-    double getCircumference() 
+    double mohit() 
     {
         return 2 * M_PI * radius;
     }
-    double getArea() 
+    double masahat() 
     {
         return M_PI * radius * radius;
     }
 
-    double distanceFromCenter(double px, double py) 
+    double fasele_az_markaz(double px, double py) 
     {
         return std::sqrt((px - x) * (px - x) + (py - y) * (py - y));
     }
 
     bool isInside(double px, double py) 
     {
-        return distanceFromCenter(px, py) <= radius;
+        return fasele_az_markaz(px, py) <= radius;
     }
 
-    void displayInfo() 
+    void etelaat() 
     {
         std::cout << "markaz: (" << x << ", " << y << ")" << std::endl;
         std::cout << "shoa: " << radius << std::endl;
-        std::cout << "mohit: " << getCircumference() << std::endl;
-        std::cout << "masahat: " << getArea() << std::endl;
+        std::cout << "mohit: " << mohit() << std::endl;
+        std::cout << "masahat: " << masahat() << std::endl;
     }
 };
 
 int main() 
 {
     Circle circle1(2.0, 3.0, 5.0);
-    circle1.displayInfo();
+    circle1.etelaat();
     double px = 4.0, py = 6.0;
-    double distance = circle1.distanceFromCenter(px, py);
+    double distance = circle1.fasele_az_markaz(px, py);
     std::cout << "fasele az markaz: " << distance << std::endl;
     
     if (circle1.isInside(px, py)) {
