@@ -13,7 +13,7 @@ interface IPerson<_Type>: IComparable<IPerson<_Type>>
 
 class PersonComparers
 {
-    // TODO3 include all comparers in this singleton class.
+    // TODO3 include all comparers in this singleton class.(full name tarif shodeh)
     
     public static PersonFirstNameComparer PersonFirstNameComparer = new ();
     public static PersonIdComparer PersonIdComparer = new();
