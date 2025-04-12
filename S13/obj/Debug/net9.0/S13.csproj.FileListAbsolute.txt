@@ -1,0 +1,15 @@
+C:\Git2\classhw-swnam1385\S13\bin\Debug\net9.0\S13.exe
+C:\Git2\classhw-swnam1385\S13\bin\Debug\net9.0\S13.deps.json
+C:\Git2\classhw-swnam1385\S13\bin\Debug\net9.0\S13.runtimeconfig.json
+C:\Git2\classhw-swnam1385\S13\bin\Debug\net9.0\S13.dll
+C:\Git2\classhw-swnam1385\S13\bin\Debug\net9.0\S13.pdb
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.AssemblyInfoInputs.cache
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.AssemblyInfo.cs
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.csproj.CoreCompileInputs.cache
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.sourcelink.json
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.dll
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\refint\S13.dll
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.pdb
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\S13.genruntimeconfig.cache
+C:\Git2\classhw-swnam1385\S13\obj\Debug\net9.0\ref\S13.dll
