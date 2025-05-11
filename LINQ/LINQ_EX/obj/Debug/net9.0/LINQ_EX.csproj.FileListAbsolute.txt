@@ -1,0 +1,15 @@
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\bin\Debug\net9.0\LINQ_EX.exe
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\bin\Debug\net9.0\LINQ_EX.deps.json
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\bin\Debug\net9.0\LINQ_EX.runtimeconfig.json
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\bin\Debug\net9.0\LINQ_EX.dll
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\bin\Debug\net9.0\LINQ_EX.pdb
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.AssemblyInfoInputs.cache
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.AssemblyInfo.cs
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.csproj.CoreCompileInputs.cache
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.sourcelink.json
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.dll
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\refint\LINQ_EX.dll
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.pdb
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\LINQ_EX.genruntimeconfig.cache
+C:\git\classhw-Parniafazeli\S21\HW\LINQ_EX\obj\Debug\net9.0\ref\LINQ_EX.dll
